@@ -1,8 +1,8 @@
 {
   "categories": [
-    { "id": 1, "name": "Catering Services", "parent_id": "null"},
-    { "id": 2, "name": "Event Catering Services", "parent_id": "null"},
-    { "id": 3, "name": "Order Online Services", "parent_id": "null"},
+    { "id": 1, "name": "Catering Services", "parent_id": null},
+    { "id": 2, "name": "Event Catering Services", "parent_id": null},
+    { "id": 3, "name": "Order Online Services", "parent_id": null},
     { "id": 4, "name": "Breakfast", "parent_id": 1},
     { "id": 5, "name": "Lunch/Dinner", "parent_id": 1},
     { "id": 6, "name": "Cocktail", "parent_id": 1},
