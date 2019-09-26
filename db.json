@@ -1,10 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "categories": [
+    { "id": 1, "name": "Catering Services", "parent_id": null},
+    { "id": 2, "name": "Event Catering Services", "parent_id": null},
+    { "id": 3, "name": "Order Online Services", "parent_id": null},
+    { "id": 4, "name": "Breakfast", "parent_id": 1},
+    { "id": 5, "name": "Lunch/Dinner", "parent_id": 1},
+    { "id": 6, "name": "Cocktail", "parent_id": 1},
+    { "id": 7, "name": "Tea", "parent_id": 1},
   ],
-  "comments": [
+  "menus": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
