@@ -2,37 +2,37 @@
   "categories": {
     "categories": [
       {
-        "id": "1222121212",
+        "id": 1222121212,
         "name": "Lunch/Dinner",
         "parent_id": "443532544532"
       },
       {
-        "id": "443532544532",
+        "id": 443532544532,
         "name": "Catering Services",
         "parent_id": null
       },
       {
-        "id": "67632787832",
+        "id": 67632787832,
         "name": "Event Catering Services",
         "parent_id": null
       },
       {
-        "id": "684769237443",
+        "id": 684769237443,
         "name": "Tea",
         "parent_id": "443532544532"
       },
       {
-        "id": "767366264835",
+        "id": 767366264835,
         "name": "Breakfast",
         "parent_id": "443532544532"
       },
       {
-        "id": "932432862442",
+        "id": 932432862442,
         "name": "Order Online Services",
         "parent_id": null
       },
       {
-        "id": "983672357324",
+        "id": 983672357324,
         "name": "Cocktail",
         "parent_id": "443532544532"
       }
@@ -41,87 +41,87 @@
   "menus": {
     "menus": [
       {
-        "id": "333131313",
+        "id": 333131313,
         "name": "Standard",
-        "category_id": "1222121212",
+        "category_id": 1222121212,
         "products": [
           {
-            "id": "434234234",
+            "id": 434234234,
             "name": "Chapati",
             "category": {
-              "id": "1222121211",
+              "id": 1222121211,
               "name": "Chapati",
-              "parent_id": "443532544532"
+              "parent_id": 443532544532
             }
           },
           {
-            "id": "567667345",
+            "id": 567667345,
             "name": "ladoo",
             "category": {
-              "id": "1222121212",
+              "id": 1222121212,
               "name": "Sweet",
-              "parent_id": "443532544532"
+              "parent_id": 443532544532
             }
           },
           {
-            "id": "566364365",
+            "id": 566364365,
             "name": "sambar",
             "category": {
-              "id": "1222121213",
+              "id": 1222121213,
               "name": "Curry",
-              "parent_id": "443532544532"
+              "parent_id": 443532544532
             }
           },
           {
-            "id": "444322355",
+            "id": 444322355,
             "name": "pulav",
             "category": {
-              "id": "1222121214",
+              "id": 1222121214,
               "name": "Rice",
-              "parent_id": "443532544532"
+              "parent_id": 443532544532
             }
           },
           {
-            "id": "454254556",
+            "id": 454254556,
             "name": "kalakan",
             "category": {
-              "id": "1222121213",
+              "id": 1222121213,
               "name": "Curry",
-              "parent_id": "443532544532"
+              "parent_id": 443532544532
             }
           },
           {
-            "id": "565463224",
+            "id": 565463224,
             "name": "Chicken",
             "category": {
-              "id": "1222121213",
+              "id": 1222121213,
               "name": "Curry",
-              "parent_id": "443532544532"
+              "parent_id": 443532544532
             }
           }
         ]
       },
       {
-        "id": "883653265",
+        "id": 883653265,
         "name": "Deluxe",
-        "category_id": "1222121212",
+        "category_id": 1222121212,
         "products": [
           {
-            "id": "567667345",
+            "id": 567667345,
             "name": "ladoo",
             "category": {
-              "id": "1222121212",
+              "id": 1222121212,
               "name": "Lunch/Dinner",
-              "parent_id": "443532544532"
+              "parent_id": 443532544532
             }
           },
           {
-            "id": "444322355",
+            "id": 444322355,
             "name": "pulav",
             "category": {
-              "id": "1222121212",
+              "id": 1222121212,
               "name": "Lunch/Dinner",
-              "parent_id": "443532544532"
+              "parent_id": 443532544532
             }
           }
         ]
