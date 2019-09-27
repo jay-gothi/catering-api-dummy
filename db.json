@@ -11,7 +11,15 @@
     ]
   },
   "menus": {"menus": [
-    { "id": 1, "name": "some comment", "postId": 1 },
+    { "id": 1, "name": "some comment", "postId": 1, 
+     "products": [
+       {"id": 1, "name": "Product 1", "category": {"id": 1, "Category1"}},
+       {"id": 2, "name": "Product 2", "category": {"id": 1, "Category1"}},
+       {"id": 3, "name": "Product 3", "category": {"id": 1, "Category1"}},
+       {"id": 4, "name": "Product 4", "category": {"id": 2, "Category2"}},
+       {"id": 5, "name": "Product 5", "category": {"id": 2, "Category2"}},
+     ]
+    },
     { "id": 2, "name": "some comment", "postId": 1 }
   ]},
   "profile": {
