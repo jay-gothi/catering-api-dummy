@@ -127,5 +127,17 @@
         ]
       }
     ]
+  },
+  "product_types": {
+    "product_types": [
+      {
+        "id": 1222121213,
+        "name": "Veg"
+      },
+      {
+        "id": 44353254452,
+        "name": "Non Veg"
+      }
+    ]
   }
 }
