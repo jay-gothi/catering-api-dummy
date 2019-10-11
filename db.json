@@ -132,11 +132,43 @@
     "product_types": [
       {
         "id": 1222121213,
-        "name": "Veg"
+        "name": "Soups"
       },
       {
         "id": 44353254452,
-        "name": "Non Veg"
+        "name": "Salads"
+      }
+    ]
+  },
+  "products": {
+    "products": [
+      {
+        "id": 120,
+        "name": "Mashroom Soup",
+        "type": "Veg",
+        "product_type_id": 1222121213,
+        "alcoholic" : "No"
+      },
+      {
+        "id": 121,
+        "name": "Chiken Soup",
+        "type": "Non Veg",
+        "product_type_id": 1222121213,
+        "alcoholic" : "No"
+      },
+       {
+        "id": 122,
+        "name": "Crab Salad",
+        "type": "Non Veg",
+        "product_type_id": 44353254452,
+        "alcoholic" : "No"
+      },
+       {
+        "id": 122,
+        "name": "Potato Salad",
+        "type": "Veg",
+        "product_type_id": 44353254452,
+        "alcoholic" : "No"
       }
     ]
   }
