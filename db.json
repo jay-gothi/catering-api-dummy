@@ -147,28 +147,44 @@
         "name": "Mashroom Soup",
         "type": "Veg",
         "product_type_id": 1222121213,
-        "alcoholic" : "No"
+        "alcoholic" : "No",
+        "product_type": {
+              "id": 1222121213,
+              "name": "Soups"
+        }
       },
       {
         "id": 121,
         "name": "Chiken Soup",
         "type": "Non Veg",
         "product_type_id": 1222121213,
-        "alcoholic" : "No"
+        "alcoholic" : "No",
+        "product_type": {
+              "id": 1222121213,
+              "name": "Soups"
+        }
       },
        {
         "id": 122,
         "name": "Crab Salad",
         "type": "Non Veg",
         "product_type_id": 44353254452,
-        "alcoholic" : "No"
+        "alcoholic" : "No",
+         "product_type": {
+              "id": 44353254452,
+              "name": "Salads"
+        }
       },
        {
         "id": 122,
         "name": "Potato Salad",
         "type": "Veg",
         "product_type_id": 44353254452,
-        "alcoholic" : "No"
+        "alcoholic" : "No",
+         "product_type": {
+              "id": 44353254452,
+              "name": "Salads"
+        }
       }
     ]
   }
