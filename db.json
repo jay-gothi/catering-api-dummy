@@ -146,7 +146,7 @@
         "type": "Veg",
         "product_type_id": 1222121213,
         "alcoholic" : "No",
-        "product_type": {
+        "category": {
               "id": 1222121213,
               "name": "Soups"
         }
@@ -157,7 +157,7 @@
         "type": "Non Veg",
         "product_type_id": 1222121213,
         "alcoholic" : "No",
-        "product_type": {
+        "category": {
               "id": 1222121213,
               "name": "Soups"
         }
@@ -168,7 +168,7 @@
         "type": "Non Veg",
         "product_type_id": 44353254452,
         "alcoholic" : "No",
-         "product_type": {
+         "category": {
               "id": 44353254452,
               "name": "Salads"
         }
@@ -179,7 +179,7 @@
         "type": "Veg",
         "product_type_id": 44353254452,
         "alcoholic" : "No",
-         "product_type": {
+         "category": {
               "id": 44353254452,
               "name": "Salads"
         }
