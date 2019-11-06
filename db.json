@@ -198,7 +198,32 @@
         "status":"pending",
         "expected_delivery_date": "2019-10-04",
         "created_at":"2019-10-04",
-        "updated_at":"2019-10-04"
+        "updated_at":"2019-10-04",
+        "order_items" : [
+          {
+            "id": 121,
+            "order_id": "120",
+            "item": "Mashroom Soup",
+            "unit_price" : 100,
+            "quantity" : 17,
+            "discount": 200,
+            "tax":100,
+            "created_at" :"2019-10-04",
+            "updated_at" :"2019-10-04",
+            "product_id": "120",
+            "product":{
+              "id": 120,
+              "name": "Mashroom Soup",
+              "type": "Veg",
+              "product_type_id": 1222121213,
+              "alcoholic" : "No",
+              "category": {
+                    "id": 1222121213,
+                    "name": "Soups"
+              }
+            }
+          }
+        ]
       }
     ]
   }
